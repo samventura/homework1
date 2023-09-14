@@ -8,3 +8,6 @@ So the rebase removes the commits from the "feature" branch into the target bran
 just incorporates the changes from the feature branch into the target branch (moving vs. combining).
 
 This is the main branch. Merge conflict?
+
+Conflict fixed. A remote repo is just a copy of an existing repo on another machine so changes can be made there
+and committed back to the orginal repo if validated.
