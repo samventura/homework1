@@ -6,3 +6,5 @@ A rebase is where commits/changes are removed from one branch and added to anoth
 
 So the rebase removes the commits from the "feature" branch into the target branch, whereas a merge
 just incorporates the changes from the feature branch into the target branch (moving vs. combining).
+
+Making a change to cause a merge conflict
